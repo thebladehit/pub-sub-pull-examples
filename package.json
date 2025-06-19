@@ -1,0 +1,21 @@
+{
+  "name": "pub-sub-pull-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebladehit/pub-sub-pull-examples.git"
+  },
+  "keywords": [],
+  "author": "thebladehit",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thebladehit/pub-sub-pull-examples/issues"
+  },
+  "homepage": "https://github.com/thebladehit/pub-sub-pull-examples#readme"
+}
