@@ -1,4 +1,4 @@
-### Everybody revives messages
+### Everybody receives messages
 ```
 [Uploader Service] ---> [Notifier] ---> [Worker: Image Resizer]    
                             |
